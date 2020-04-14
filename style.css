@@ -15,3 +15,12 @@
 .navbar-dark .navbar-nav .nav-link {
     color: red;
 }
+
+p {
+    margin-top: 3rem;
+    /* margin-bottom: 1rem; */
+}
+
+.demoVideo {
+    margin: auto;
+}
