@@ -12,3 +12,6 @@
     width: 140px;
     height: 140px;
 } */
+.navbar-dark .navbar-nav .nav-link {
+    color: red;
+}
